@@ -1,4 +1,4 @@
-<h1 align="center">PROJECT TITLE<h2 align="center">SOLIDITY- CREATING MY OWN TOKEN</h2></h1>
+<h1 align="center">PROJECT TITLE<h3 align="center">SOLIDITY- CREATING MY OWN TOKEN</h3></h1>
 
 
 
