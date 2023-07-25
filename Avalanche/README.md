@@ -1,4 +1,4 @@
-# SOLIDITY- CREATING Require, Revert, and Assert Error Handling Function
+# SOLIDITY- Using Require, Revert, and Assert Error Handling Statements
 
 In Solidity, implementing Require, Revert, and Assert error handling functions is crucial for ensuring secure and robust smart contract behavior by validating conditions, reverting erroneous states, and asserting critical assumptions during contract execution.
 
